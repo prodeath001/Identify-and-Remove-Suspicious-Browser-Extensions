@@ -1,3 +1,7 @@
+
+https://drive.google.com/drive/folders/17mb6Z9L_QbCDtawv-wAGgoG3-iB_ZWS_?usp=sharing
+the above link contains a video containing steps and a .pcapng file 
+
 # Identify-and-Remove-Suspicious-Browser-Extensions
  Learn to spot and remove potentially harmful browser extensions.
 
